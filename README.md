@@ -35,7 +35,7 @@ If you're looking for an enthusiastic and driven intern with strong mathematical
 
 ## 📄 Resume
 I'm currently seeking Summer 2026 internships in AI/ML, Data Science, or Software Engineering.  
-Feel free to check out my [CV here](https://github.com/ignaciovigil/ignaciovigil/blob/main/Ignacio_Vigil_Cardenal_CV.pdf).
+Feel free to check out my [CV here](Ignacio_Vigil_Cardenal_CV.pdf).
 
 
 <!--
