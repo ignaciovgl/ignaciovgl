@@ -32,6 +32,8 @@ I'm a Mathematics undergraduate at the University of Warwick, passionate about A
 
 ## 📫 Let’s Connect!
 If you're looking for an enthusiastic and driven intern with strong mathematical foundations and a growing portfolio in AI/ML, feel free to reach out via LinkedIn: www.linkedin.com/in/ignacio-vigil-cardenal or check out my pinned repositories below!
+
+
 <!--
 **ignaciovgl/ignaciovgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
