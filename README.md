@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ignacio Vigil Cardenal
 
-I'm a Mathematics and Statistics undergraduate at the University of Warwick, passionate about Artificial Intelligence, Machine Learning, and their real-world applications. I’m currently building my experience through personal projects, research, and academic work, with the goal of contributing to impactful AI-driven technologies.
+I'm a Mathematics and Statistics undergraduate at the University of Warwick, passionate about Statistics, Quant Finance, Artificial Intelligence, Machine Learning, and their real-world applications. I’m currently building my experience through personal projects, research, and academic work.
 
 ## 🔍 Interests
 - **Machine Learning & AI** — I’m fascinated by the mathematics behind intelligent systems and how they can solve complex problems across industries.
@@ -33,7 +33,7 @@ I'm a Mathematics and Statistics undergraduate at the University of Warwick, pas
 If you're looking for an enthusiastic and driven intern with strong mathematical foundations and a growing portfolio in AI/ML, feel free to reach out via LinkedIn: www.linkedin.com/in/ignacio-vigil-cardenal or check out my pinned repositories below!
 
 ## 📄 Resume
-I'm currently seeking Summer 2028 internships in AI/ML, Data Science, Quant Finance or Trading.  
+I'm currently seeking Summer 2027 internships in Quant Finance, Trading, Data Science, AI and ML.  
 Feel free to check out my [CV here](Ignacio_Vigil_Cardenal_CV.pdf).
 
 
