@@ -21,7 +21,7 @@ I'm a Mathematics and Statistics undergraduate at the University of Warwick, pas
 ## 🧰 Skills
 - **Programming**: Python (NumPy, Pandas, scikit-learn, Matplotlib, Pytorch), Java (basic), LaTeX, R, SQL
 - **Machine Learning**: Supervised learning, feedforward networks, model evaluation  
-- **Math**: Linear algebra, calculus, probability, statistics, vector calculus, differential equations.  
+- **Math**: Linear algebra, calculus, probability, mathematical statistics, stochastic processes, optimisation, algorithms, PDEs.
 - **Tools**: Git, VSCode, Jupyter, GitHub Projects  
 - **Soft Skills**: Teamwork, problem-solving, scientific writing, self-motivated learning
 
@@ -33,7 +33,7 @@ I'm a Mathematics and Statistics undergraduate at the University of Warwick, pas
 If you're looking for an enthusiastic and driven intern with strong mathematical foundations and a growing portfolio in AI/ML, feel free to reach out via LinkedIn: www.linkedin.com/in/ignacio-vigil-cardenal or check out my pinned repositories below!
 
 ## 📄 Resume
-I'm currently seeking Summer 2026 internships in AI/ML, Data Science, Quant Finance or Trading.  
+I'm currently seeking Summer 2028 internships in AI/ML, Data Science, Quant Finance or Trading.  
 Feel free to check out my [CV here](Ignacio_Vigil_Cardenal_CV.pdf).
 
 
