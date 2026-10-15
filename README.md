@@ -3,7 +3,7 @@
 I'm a Mathematics and Statistics undergraduate at the University of Warwick (Class of 2027), passionate about Quant Finance, Artificial Intelligence, Machine Learning, and their real-world applications. I am actively building my quantitative and technical skill set through research, personal projects, and leadership roles.
 
 ## 💼 Experience & Leadership
-- **Incoming Financial Risk Management Intern @ KPMG (Summer 2026)** - Preparing to join the Financial Risk Management department to apply quantitative and statistical methods to real-world financial challenges.
+- **Financial Risk Management Intern @ KPMG (Summer 2026)** - Preparing to join the Financial Risk Management department to apply quantitative and statistical methods to real-world financial challenges.
 
 - **Head of Quantitative Investment Group @ Warwick Business School Society** - Designed and taught a 4-lesson "Machine Learning for Quantitative Investing" academy. Developed a comprehensive curriculum and practical Google Colab notebooks covering foundational topics like Linear and Logistic Regression. Guided students through the role of supervised and unsupervised learning in modern finance, specifically focusing on prediction accuracy, risk management, and portfolio optimization.
 
